@@ -71,6 +71,7 @@
       <workItem from="1595468632172" duration="2398000" />
       <workItem from="1595815686309" duration="22761000" />
       <workItem from="1596207634999" duration="227000" />
+      <workItem from="1596278970549" duration="220000" />
     </task>
     <servers />
   </component>
@@ -122,6 +123,10 @@
       <screen x="0" y="0" width="1440" height="900" />
     </state>
     <state width="1398" height="225" key="GridCell.Tab.1.right/0.0.1440.900@0.0.1440.900" timestamp="1595940021900" />
+    <state x="530" y="168" key="RollbackChangesDialog" timestamp="1596279186426">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="530" y="168" key="RollbackChangesDialog/0.0.1440.900@0.0.1440.900" timestamp="1596279186426" />
     <state x="229" y="89" key="SettingsEditor" timestamp="1595470298483">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
