@@ -17,7 +17,7 @@
 - 适配器模式
 - 责任链模式
 
-![avatar](../../../Image/tomcat模拟.jpeg)
+![avatar](https://github.com/Mr-Luo-csc/studyNote/blob/master/Image/tomcat%E6%A8%A1%E6%8B%9F.jpeg)
 
 ------
 
